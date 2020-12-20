@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">FrutiApp</string>
+    <string name="txt_nombre">¿Cómo te llamas?</string>
+    <string name="boton">Jugar</string>
+    <string name="respuesta">Resultado</string>
+    <string name="comprobar">Comprobar</string>
+    <string name="textview">TextView</string>
+    <string name="operador">suma</string>
+    <string name="score">0 puntos</string>
+</resources>
