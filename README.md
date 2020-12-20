@@ -1,6 +1,6 @@
 # FrutiApp
-_FrutiApp. Aplicación para dispositivos Android creada con el lenguaje Java siguiendo el curso de YouTube La Geekipedia de Ernesto. El propósito de esta aplicación es enseñar operaciones matemáticas de manera divertida a niños que tengan una edad de entre 3 y 10 años aproximadamente.
-_En la raíz del proyecto, encontrarás un documento PDF llamado 'Presentación y requerimientos del proyecto final.pdf' proporcionado por la Geekipedia de Ernesto en el que se explican los requerimientos del proyecto.
+_FrutiApp. Aplicación para dispositivos Android creada con el lenguaje Java siguiendo el curso de YouTube La Geekipedia de Ernesto. El propósito de esta aplicación es enseñar operaciones matemáticas de manera divertida a niños que tengan una edad de entre 3 y 10 años aproximadamente._
+_En la raíz del proyecto, encontrarás un documento PDF llamado 'Presentación y requerimientos del proyecto final.pdf' proporcionado por la Geekipedia de Ernesto en el que se explican los requerimientos del proyecto._
 
 ### Pre-requisitos 📋
 _Si quieres clonar este proyecto para modificar y probar nuevas funcionalidades, deberás tener instalado en tu ordenador el JDK (https://www.oracle.com/technetwork/es/java/javase/downloads/index.html) y Android Studio (https://developer.android.com/studio)_
