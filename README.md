@@ -8,7 +8,7 @@ _Si quieres clonar este proyecto para modificar y probar nuevas funcionalidades,
 
 ### Comenzando 🚀
 _Estas instrucciones te permitirán obtener una copia del proyecto en funcionamiento en tu máquina local para propósitos de desarrollo y pruebas._
-_git clone https://github.com/robefernandez22/FrutiApp_
+```git clone https://github.com/robefernandez22/FrutiApp```
 
 ### Expresiones de Gratitud 🎁
 _Quiero recalcar que a pesar de haber hecho ciertas funcionalidades a mi manera, este proyecto ha sido ideado y creado por el creador del canal de YouTube La Geekipedia de Ernesto. Por lo que, gracias a su curso es que yo he podido crear este proyecto y he ampliado mis conocimientos en el desarrollo de aplicaciones Android._
