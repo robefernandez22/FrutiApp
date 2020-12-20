@@ -4,7 +4,7 @@ _FrutiApp. Aplicación para dispositivos Android creada con el lenguaje Java sig
 _En la raíz del proyecto, encontrarás un documento PDF llamado 'Presentación y requerimientos del proyecto final.pdf' proporcionado por la Geekipedia de Ernesto en el que se explican los requerimientos del proyecto._
 
 ### Instalación 🔧
-_Si quieres probar la aplicación directamente en tu dispositivo Android, podrás hacerlo dirigiendote a la carpeta [!['app/release/'](https://github.com/robefernandez22/FrutiApp/blob/master/app/release/app-release.apk)], una vez allí, encontrarás el archivo 'app-release.apk', el cual deberás mover a tu dispositivo Android y ejecutarlo._
+_Si quieres probar la aplicación directamente en tu dispositivo Android, podrás hacerlo dirigiendote a la carpeta ['app/release/'](https://github.com/robefernandez22/FrutiApp/blob/master/app/release/app-release.apk), una vez allí, encontrarás el archivo 'app-release.apk', el cual deberás mover a tu dispositivo Android y ejecutarlo._
 
 ### Pre-requisitos 📋
 _Si quieres clonar este proyecto para modificar y probar nuevas funcionalidades, deberás tener instalado en tu ordenador el JDK (https://www.oracle.com/technetwork/es/java/javase/downloads/index.html) y Android Studio (https://developer.android.com/studio)_
