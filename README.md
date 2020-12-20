@@ -7,7 +7,7 @@ _En la raíz del proyecto, encontrarás un documento PDF llamado 'Presentación 
 _Si quieres clonar este proyecto para modificar y probar nuevas funcionalidades, deberás tener instalado en tu ordenador el JDK (https://www.oracle.com/technetwork/es/java/javase/downloads/index.html) y Android Studio (https://developer.android.com/studio)_
 
 ### Comenzando 🚀
-_Estas instrucciones te permitirán obtener una copia del proyecto en funcionamiento en tu máquina local para propósitos de desarrollo y pruebas._
+_Estas instrucciones te permitirán obtener una copia del proyecto en funcionamiento en tu máquina local para propósitos de desarrollo y pruebas:_
 ```git clone https://github.com/robefernandez22/FrutiApp```
 
 ### Expresiones de Gratitud 🎁
